@@ -6,6 +6,10 @@
 3. `mvn package` (compila y copia el frontend en `main/resources/static`)
 4. `mvn spring-boot:run`
 
+### TODOs
+
+- En el backend, generar el token y enviarlo al frontend. En el frontend, guardarlo para enviarlo en las cabeceras.
+
 
 ### Reference Documentation
 
